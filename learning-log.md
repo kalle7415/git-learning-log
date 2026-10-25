@@ -10,6 +10,7 @@ I'm learning Git and version control to track my work.
 - Learn branching and merging
 - Push my work to GitHub
 
-## What I learned today
+## What I Learned Today
 
-- git track changes to files over time
+- Git is like a time machine for your files
+- Every commit is a snapshot you can go back to
