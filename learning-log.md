@@ -13,3 +13,5 @@ I'm learning Git and version control to track my work.
 ## What I learned today
 
 - git track changes to files over time
+- Branches let you experiment without affecting main projectgit add learning-log.md
+- You can merge branch when you are ready
